@@ -1,2 +1,3 @@
-# Automated-recognition-of-NETs
-This is our capstone project for the Data Science workshop at neuefische
+# Models
+
+In this folder we generated our models for the automated image recognition.
