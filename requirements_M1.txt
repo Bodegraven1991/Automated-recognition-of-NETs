@@ -12,3 +12,4 @@ tensorflow-metal
 Keras==2.15.0
 tensorflow-hub
 tensorflow-docs
+opencv-python==4.5.3.56
