@@ -1,3 +1,7 @@
 # the images
 data/
 data.zip
+
+.venv/
+
+*/.DS_Store
