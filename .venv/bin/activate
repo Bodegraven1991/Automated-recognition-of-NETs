@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mimmo/Desktop/neuefische/Automated-recognition-of-NETs/.venv"
+VIRTUAL_ENV="/Users/niharikagarg/Documents/Neufische/New/Automated-recognition-of-NETs/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

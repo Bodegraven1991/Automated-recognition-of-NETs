@@ -1,4 +1,4 @@
-#!/Users/mimmo/Desktop/neuefische/Automated-recognition-of-NETs/.venv/bin/python
+#!/Users/niharikagarg/Documents/Neufische/New/Automated-recognition-of-NETs/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

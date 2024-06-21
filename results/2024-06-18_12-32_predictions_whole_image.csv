@@ -1,0 +1,7 @@
+Original Image,Predicted Category,Subimage Number,NET Positive Ratio
+Ctrl_1,NET negative,43,31.746031746031743
+Ctrl_1,NET positive,20,31.746031746031743
+Ctrl_2,NET negative,67,11.842105263157894
+Ctrl_2,NET positive,9,11.842105263157894
+Ctrl_3,NET negative,92,9.803921568627452
+Ctrl_3,NET positive,10,9.803921568627452
